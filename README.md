@@ -3,3 +3,4 @@ AKU ANKKAAA
 REPESORSAA
 Minni Hiiri
 Hessu Hopo
+Roope Ankka
