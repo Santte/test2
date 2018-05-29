@@ -6,3 +6,4 @@ Hessu Hopo
 Roope Ankka
 Hannu Hanhi
 Milla Magia
+Pluto
